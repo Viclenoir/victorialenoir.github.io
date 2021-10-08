@@ -1,0 +1,29 @@
+img {
+    width: 20%;
+    height: 20%;
+}
+
+body {
+    background-color: #c9b6e0;
+    font-family: 'Oswald', sans-serif;
+
+
+}
+
+h3{
+    color: white;
+}
+
+h3{
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+}
